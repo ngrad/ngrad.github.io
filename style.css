@@ -63,3 +63,7 @@ a:hover {
     height: 100%;
     padding: 100px;
 }
+
+#intro-content{
+	text-align:center;
+}
