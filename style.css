@@ -65,6 +65,16 @@ a:hover {
     color: black;
 }
 
+p.blockquote{
+	font-size: 26px;
+	font-weight: 400;
+	text-transform: uppercase;
+	max-width:800px;
+	text-align: left;
+	line-height: 36px;
+
+}
+
 hr {
 	margin: 50px 0 50px 0;
     border: 0;
