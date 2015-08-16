@@ -86,4 +86,9 @@ hr {
 	text-align:center;
 }
 
-#project
+/*img styles*/
+img.left {
+    width: 65%;
+    float: left;
+    margin: 0 50px 50px 0;
+}
