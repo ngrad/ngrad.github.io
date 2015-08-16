@@ -32,7 +32,12 @@ p{
 	line-height: 28px;
 }
 
+ul {
+    line-height: 34px;
+}
+
 li{
+	list-style-type: disc;
 
 }
 
@@ -45,6 +50,10 @@ a{
     -moz-transition: all 0.5s ease-in;
     -webkit-transition: all 0.5s ease-in;
     transition: all 0.5s ease-in;
+}
+
+a:hover {
+    color: black;
 }
 
 /*sections*/
