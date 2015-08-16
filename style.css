@@ -65,12 +65,34 @@ a:hover {
     color: black;
 }
 
-p.blockquote{
+p.blockquote-left{
 	font-size: 26px;
 	font-weight: 400;
 	text-transform: uppercase;
 	max-width:800px;
 	text-align: left;
+	line-height: 36px;
+
+}
+
+p.blockquote-right{
+	font-size: 26px;
+	font-weight: 400;
+	text-transform: uppercase;
+	max-width:800px;
+	text-align: right;
+	line-height: 36px;
+	float:right;
+
+}
+
+p.blockquote-center{
+	margin: 0 auto;
+	font-size: 26px;
+	font-weight: 400;
+	text-transform: uppercase;
+	max-width:800px;
+	text-align: center;
 	line-height: 36px;
 
 }
