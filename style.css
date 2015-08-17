@@ -141,4 +141,11 @@ img.left {
     width: 65%;
     float: left;
     margin: 0 50px 50px 0;
+    box-shadow: 5px 5px 5px #EBEBEB;
+}
+
+img.left-nofloat {
+    width: 65%;
+    margin: 0 50px 50px 0;
+    box-shadow: 5px 5px 5px #EBEBEB;
 }
