@@ -107,6 +107,19 @@ hr {
 
 }
 
+
+/*highlight styles*/
+
+::selection {
+	color:#ffffff;
+  	background: #000000; /* WebKit/Blink Browsers */
+}
+
+::-moz-selection {
+	color:#ffffff;
+  	background: #000000; /* Gecko Browsers */
+}
+
 /*sections*/
 #content {
     margin: 0 auto;
