@@ -10,7 +10,7 @@ h1{
 }
 
 h2{
-	font-size: 36px;
+	font-size: 28px;
 	font-weight: 100;
 }
 
@@ -33,7 +33,7 @@ h5{
     font-weight: 100;
     color: #787878;
     padding: 11px 25px 15px 25px;
-    background-color: #F2F2F2;
+    background-color: rgba(230, 223, 200, 0.18);
     display: inline-block;
 }
 
@@ -141,12 +141,6 @@ hr {
 img.left {
     width: 65%;
     float: left;
-    margin: 0 50px 50px 0;
-    box-shadow: 5px 5px 5px #EBEBEB;
-}
-
-img.left-nofloat {
-    width: 65%;
     margin: 0 50px 50px 0;
     box-shadow: 5px 5px 5px #EBEBEB;
 }
