@@ -123,13 +123,13 @@ a:hover {
 /*highlight styles*/
 
 ::selection {
-	color:#ffffff;
-  	background: #000000; /* WebKit/Blink Browsers */
+	color:#000000;
+  	background: rgba(230, 223, 200, 0.42); /* WebKit/Blink Browsers */
 }
 
 ::-moz-selection {
-	color:#ffffff;
-  	background: #000000; /* Gecko Browsers */
+	color:#000000;
+  	background: rgba(230, 223, 200, 0.42); /* Gecko Browsers */
 }
 
 /*sections*/
