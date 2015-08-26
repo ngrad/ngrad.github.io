@@ -188,6 +188,15 @@ section.image img a{
 
 }
 
+section.image img:hover{
+     background:rgba(230, 223, 200, 0.18);
+     text-align:center;
+     opacity:.7;
+     -webkit-transition: opacity .25s ease;
+    -moz-transition: opacity .25s ease;
+
+}
+
 section.copy{
 	float:left;
 	width: 35%;
