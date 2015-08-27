@@ -175,6 +175,8 @@ a.image-link {
 
 }
 
+
+
 .copy {
 	float:left;
 	width: 35%;
@@ -186,3 +188,28 @@ a.image-link {
     margin:0 auto;
     width: 80%;
 }
+
+
+/*new structure styles*/
+
+/*do not put any styles on an .img style*/
+
+.container{
+
+}
+
+.row{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
