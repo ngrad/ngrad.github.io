@@ -5,16 +5,16 @@ body {
 
 /*typography*/
 
-h1{
+h1 {
 	font-size: 38px;
 }
 
-h2{
+h2 {
 	font-size: 24px;
 	font-weight: 100;
 }
 
-h3{
+h3 {
 	font-size: 18px;
 	text-transform: uppercase;
 	letter-spacing:1px;
@@ -22,13 +22,13 @@ h3{
 	padding-top: 24px;
 }
 
-h4{
+h4 {
 	font-size: 20px;
 	font-weight: 100;
 	line-height:32px;
 }
 
-h5{
+h5 {
 	font-family: 'Droid Serif', serif;
 	margin: 5px;
     font-size: 16px;
@@ -39,7 +39,7 @@ h5{
     display: inline-block;
 }
 
-p{
+p {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
     line-height: 26px;
@@ -49,12 +49,12 @@ ul {
     line-height: 30px;
 }
 
-li{
+li {
 	list-style-type: disc;
 
 }
 
-a{
+a {
 	color: #8C8C8C;;
     text-decoration: none;
     padding: 1px 2px 1px 2px;
@@ -69,7 +69,7 @@ a:hover {
     color: #000000;
 }
 
-.pullquote-left{
+.pullquote-left {
     font-family: 'Droid Serif', serif;
     font-size: 18px;
     font-weight: 100;
@@ -80,7 +80,7 @@ a:hover {
     padding-left: 26px;
 }
 
-.pullquote-right{
+.pullquote-right {
 	font-size: 26px;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -91,7 +91,7 @@ a:hover {
 
 }
 
-.pullquote-center{
+.pullquote-center {
 	margin: 0 auto;
 	font-size: 26px;
 	font-weight: 400;
@@ -141,34 +141,20 @@ a:hover {
     padding: 100px;
 }
 
-.intro-content{
+.intro-content {
 	text-align:center;
 }
 
-#project-content{
+/*images*/
 
-}
 
-/*img styles*/
-/*img.left {
-    width: 65%;
-    float: left;
-    margin: 0 50px 50px 0;
-    box-shadow: 5px 5px 5px #EBEBEB;
-}*/
-
-.resume{
-    margin:0 auto;
-    width: 80%;
-}
-
-.image-center{
+.image-center {
 	margin:0 auto;
 	width:100%;
     text-align: center;
 }
 
-.image{
+.image {
 	width:54%;
 	float:right;
 	margin: 0px 0px 50px 50px;
@@ -183,13 +169,20 @@ a:hover {
     width: 100%;
 }
 
-a.image-link{
+a.image-link {
     border-bottom:0;
     padding:0;
 
 }
 
-.copy{
+.copy {
 	float:left;
 	width: 35%;
+}
+
+/*resume*/
+
+.resume {
+    margin:0 auto;
+    width: 80%;
 }
