@@ -66,7 +66,7 @@ a{
 }
 
 a:hover {
-    color: black;
+    color: #000000;
 }
 
 .pullquote-left{
@@ -157,18 +157,18 @@ a:hover {
     box-shadow: 5px 5px 5px #EBEBEB;
 }*/
 
-section.resume{
+.resume{
     margin:0 auto;
     width: 80%;
 }
 
-section.image-center{
+.image-center{
 	margin:0 auto;
 	width:100%;
     text-align: center;
 }
 
-section.image{
+.image{
 	width:54%;
 	float:right;
 	margin: 0px 0px 50px 50px;
@@ -176,23 +176,20 @@ section.image{
 	
 }
 
-section.image img {
+.image img {
     margin-bottom: 50px;
     box-shadow: 5px 5px 5px rgba(235, 235, 235, 0.16);
     border: 1px solid #f5f5f5;
     width: 100%;
 }
 
-section.image a{
-	background: none;
-    -moz-transition: all 0.5s ease-in;
-    -webkit-transition: all 0.5s ease-in;
-    transition: all 0.5s ease-in;
-    bottom-border:none;
+a.image-link{
+    border-bottom:0;
+    padding:0;
 
 }
 
-section.copy{
+.copy{
 	float:left;
 	width: 35%;
 }
