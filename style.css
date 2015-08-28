@@ -58,7 +58,7 @@ li {
 
 }
 
-a.text-link {
+a{
 	color: #8C8C8C;;
     text-decoration: none;
     padding: 1px 2px 1px 2px;
@@ -74,9 +74,9 @@ a:hover {
     cursor:pointer; 
 }
 
-a:visited {
+/*a:visited {
     color: #000000;
-}
+}*/
 
 .pullquote-left {
     font-family: 'Droid Serif', serif;
