@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Montserrat",Helvetica,Arial,sans-serif;
     color: #00000;
 }
 
@@ -43,7 +43,7 @@ h5 {
 }
 
 p {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 16px;
     line-height: 26px;
 }
