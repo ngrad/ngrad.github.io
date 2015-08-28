@@ -101,7 +101,7 @@ a:hover {
 	line-height: 36px;
 
 }
-
+/*
 .rule {
 	margin: 50px -100px 50px -100px;
     border: 0;
@@ -109,7 +109,7 @@ a:hover {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 
-}
+}*/
 
 /*.separator {
 	margin: 50px -100px 50px -100px;
@@ -162,18 +162,13 @@ a:hover {
 	
 }*/
 
-.image img {
+/*.image img {
     margin-bottom: 50px;
     box-shadow: 5px 5px 5px rgba(235, 235, 235, 0.16);
     border: 1px solid #f5f5f5;
     width: 100%;
-}
+}*/
 
-a.image-link {
-    border-bottom:0;
-    padding:0;
-
-}
 
 
 
@@ -211,15 +206,6 @@ a.image-link {
 
 }
 
-/*.line {
-    margin: 50px -100px 50px -100px;
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-
-}*/
-
 .line {
     margin: 50px -100px 50px -100px;
     border: 0;
@@ -230,7 +216,7 @@ a.image-link {
 }
 
 .row {
-    margin: 0 0 50px 50px;
+    margin: 0;
     width: 100%;
     height:100%;
     display: block;
@@ -241,7 +227,15 @@ a.image-link {
     margin: 0;
     padding:0;
     float:right;
-    width:55%;
+    width:50%;
+    box-shadow: 5px 5px 5px rgba(235, 235, 235, 0.16);
+    border: 1px solid #f5f5f5;
+}
+
+a.image-link {
+    border-bottom:0;
+    padding:0;
+
 }
 
 .copy {
