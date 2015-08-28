@@ -47,6 +47,7 @@ p {
 
 ul {
     line-height: 30px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 li {
@@ -54,7 +55,7 @@ li {
 
 }
 
-a {
+a.text-link {
 	color: #8C8C8C;;
     text-decoration: none;
     padding: 1px 2px 1px 2px;
@@ -67,6 +68,11 @@ a {
 
 a:hover {
     color: #000000;
+    cursor:pointer; 
+}
+
+a:visited {
+    color: #000000;
 }
 
 .pullquote-left {
@@ -75,7 +81,7 @@ a:hover {
     font-weight: 100;
     text-align: left;
     line-height: 30px;
-    margin: 2.5em 22px;
+    margin: 4.5em 28px;
     border-left: 6px solid rgba(230, 223, 200, 0.51);
     padding-left: 26px;
 }
@@ -286,6 +292,7 @@ a.image-link {
 
 .center {
     margin: 0 auto;
+    padding-top: 30px;
     width: 50%;
     text-align: right;
     float: right;
