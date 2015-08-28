@@ -243,8 +243,9 @@ a:hover {
 }
 
 .column{
-    float:left;
-    width:50%;
+    float: left;
+    width: 40%;
+    padding: 0 25px 0 25px;
 }
 
 .image img {
@@ -301,7 +302,7 @@ a.image-link {
     width:34%;
 }
 
-.center {
+.text-right {
     margin: 0 auto;
     padding-top: 30px;
     width: 50%;
