@@ -341,6 +341,10 @@ a.image-link {
 
 }
 
+.homepage-center{
+    text-align:center;
+}
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: @screen-sm-min) { ... }
 
