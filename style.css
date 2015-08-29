@@ -248,6 +248,10 @@ a:hover {
     padding: 0 25px 0 25px;
 }
 
+.right{
+    float:right;
+}
+
 .image img {
     display: block;
     width: 100%;
