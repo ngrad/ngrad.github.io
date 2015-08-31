@@ -142,49 +142,6 @@ a:hover {
   	background: rgba(230, 223, 200, 0.42); /* Gecko Browsers */
 }
 
-/*sections*/
-/*.container {
-    margin: 0 auto;
-    max-width: 1100px;
-    height: 100%;
-    padding: 100px;
-}*/
-
-/*.intro-content {
-	text-align:center;
-}*/
-
-/*images*/
-
-
-/*.image-center {
-	margin:0 auto;
-	width:100%;
-    text-align: center;
-}
-*/
-/*.image {
-	width:54%;
-	float:right;
-	margin: 0px 0px 50px 50px;
-
-	
-}*/
-
-/*.image img {
-    margin-bottom: 50px;
-    box-shadow: 5px 5px 5px rgba(235, 235, 235, 0.16);
-    border: 1px solid #f5f5f5;
-    width: 100%;
-}*/
-
-
-
-
-/*.copy {
-	float:left;
-	width: 35%;
-}*/
 
 /*resume*/
 
